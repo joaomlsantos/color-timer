@@ -1,14 +1,8 @@
 # color-timer
 
-This template should help get you started developing with Vue 3 in Vite.
+Displays a different color in the page every k seconds (default set to 5 seconds).
+Current main use-case is table tennis practice: 5 different-colored target markers are set on the table, player's goal is to hit the marker with the displayed color at every turn. 
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
